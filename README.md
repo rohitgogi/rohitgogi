@@ -23,6 +23,6 @@ Python • FastAPI • LangChain • SmolAgents • Groq • React Native • Fl
 ---
 
 ### Connect
-[LinkedIn](#) • [X (Twitter)](#) • [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/rohit-gogi/) • [X (Twitter)](https://x.com/rohit_gogi) • [Portfolio](#)
 
 ---
