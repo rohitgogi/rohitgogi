@@ -1,16 +1,36 @@
-## Hi there 👋
+## Building practical AI systems and agentic frameworks
 
-<!--
-**rohitgogi/rohitgogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Rohit — AI engineer and builder focused on multi-agent systems, automation, and trading intelligence.  
+Currently experimenting with **SmolAgents**, **LangGraph**, and **real-world AI deployments** that actually ship.
 
-Here are some ideas to get you started:
+Turning LLM reasoning into production tools, one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Projects
+- **InvestIQ** – AI trading platform where autonomous agents build and test trading strategies with live market data.  
+- **WeatherSense** – Multi-agent reasoning system using SmolAgents to interpret weather and generate context-aware recommendations.  
+- **Rosavara Digital** – Automation agency building no-code and AI integrations for small businesses.  
+- **VoiceShipper** – Voice-driven shipment creation with NLP and offline-first mobile support.
+
+---
+
+### Focus Areas
+- Agent orchestration (LangGraph, MCP, Hugging Face SmolAgents)  
+- Trading intelligence and live strategy evaluation  
+- FastAPI and LLM toolchains for automation  
+
+---
+
+### Tech Stack
+Python • FastAPI • LangChain • SmolAgents • Groq • React Native • Flask • SQL • Postgres • Docker • Vercel • Firebase • Azure • Hugging Face
+
+---
+
+### Connect
+[LinkedIn](#) • [X (Twitter)](#) • [Portfolio](#)
+
+---
+
+### GitHub Bio
+> Building practical AI systems and exploring agentic frameworks for automation, trading, and reasoning.
