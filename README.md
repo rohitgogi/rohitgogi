@@ -1,26 +1,27 @@
-I’m Rohit — AI engineer and builder focused on multi-agent systems, automation, and trading intelligence.  
-Currently experimenting with different AI frameworks to learn and figure out which ones actually ship.
+I’m Rohit — AI engineer and builder focused on multi-agent systems, ecommerce automation, and intelligent business workflows.  
+Currently experimenting with different AI frameworks to figure out which ones actually ship.
 
 ---
 
 ### Current Projects
-- **InvestIQ** – AI trading platform where autonomous agents build and test trading strategies with live market data.
-- **News-to-Podcast Agent** – Automated AI pipeline that collects daily U.S. and tech/AI news, summarizes it using GPT-4o-mini, converts it into a spoken podcast via OpenAI TTS, and emails the MP3 every morning.  
+- **InvestIQ** – AI platform where autonomous agents build and test trading strategies with live market data.  
+- **News-to-Podcast Agent** – Automated AI pipeline that collects daily U.S. and tech/AI news, summarizes it using GPT-4o-mini, converts it to speech via OpenAI TTS, and emails the MP3 every morning.  
 - **WeatherSense** – Multi-agent reasoning system using SmolAgents to interpret weather and generate context-aware recommendations.  
-- **VoiceShipper** – Voice-driven shipment creation with NLP and offline-first mobile support.  
+- **VoiceShipper** – Voice-driven shipment creation for ecommerce logistics with NLP and offline-first mobile support.  
 - **Pen2Panel** – AI-powered comic generation platform with modular Flask APIs and a responsive Next.js frontend.
 
 ---
 
 ### Focus Areas
 - Agent orchestration (LangGraph, MCP, Hugging Face SmolAgents)  
-- Trading intelligence and live strategy evaluation  
-- FastAPI and LLM toolchains for automation  
+- Ecommerce and workflow automation systems  
+- FastAPI and LLM toolchains for backend intelligence  
+- End-to-end AI pipelines from ingestion to automation  
 
 ---
 
 ### Tech Stack
-Python • FastAPI • Flask • LangChain • SmolAgents • Groq • React Native • Next.js • TypeScript • SQL • Postgres • Docker • Vercel • Firebase • Azure • Hugging Face
+Python • FastAPI • Flask • LangChain • SmolAgents • Groq • React Native • Next.js • TypeScript • SQL • Postgres • Docker • Vercel • Firebase • Azure • Hugging Face • ChromaDB • OpenAI APIs • GitHub Actions
 
 ---
 
@@ -28,6 +29,7 @@ Python • FastAPI • Flask • LangChain • SmolAgents • Groq • React Nat
 [LinkedIn](https://www.linkedin.com/in/rohit-gogi/) • [X (Twitter)](https://x.com/rohit_gogi) • [Portfolio](#)
 
 ---
+
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
