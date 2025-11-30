@@ -5,7 +5,7 @@ Currently experimenting with different AI frameworks to figure out which ones ac
 
 ### Current Projects
 - **InvestIQ** – AI platform where autonomous agents build and test trading strategies with live market data.  
-- **News-to-Podcast Agent** – Automated AI pipeline that collects daily U.S. and tech/AI news, summarizes it using GPT-4o-mini, converts it to speech via OpenAI TTS, and emails the MP3 every morning.  
+- **SoundByte AI** – Automated AI pipeline that collects daily U.S. and tech/AI news, summarizes it using GPT-4o-mini, converts it to speech via OpenAI TTS, and emails the MP3 every morning.  
 - **WeatherSense** – Multi-agent reasoning system using SmolAgents to interpret weather and generate context-aware recommendations.  
 - **VoiceShipper** – Voice-driven shipment creation for ecommerce logistics with NLP and offline-first mobile support.  
 - **Pen2Panel** – AI-powered comic generation platform with modular Flask APIs and a responsive Next.js frontend.
